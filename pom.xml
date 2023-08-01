@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>spring6_mvc_app5</artifactId>
+  <artifactId>spring6_mvc_api5</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>spring_mvc_app5 Maven Webapp</name>
+  <name>spring6_mvc_api5 Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
